@@ -24,11 +24,12 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📫 Контакты
-- **Telegram**: [@твой_телеграм](https://t.me/al0trop)
+- **Telegram**: https://t.me/al0trop
 - **Email**: kamilazatovich12@gmail.com
-- **GitHub**: [KamilZaripov](https://github.com/Daisy32411/Daisy32411)
+- **GitHub**: https://github.com/Daisy32411/Daisy32411
 
 ## 🚀 Мои проекты
 
