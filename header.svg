@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">KAMIL — Go &amp; Java Backend Developer</title>
+  <desc id="desc">Blue and orange gradient banner with animated text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="25%">
+      <stop offset="0%" stop-color="#007EA8"/>
+      <stop offset="48%" stop-color="#0D1117"/>
+      <stop offset="52%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#D97716"/>
+    </linearGradient>
+    <linearGradient id="accent"><stop stop-color="#00ADD8"/><stop offset="1" stop-color="#F89820"/></linearGradient>
+  </defs>
+  <path d="M0 0H1200V199Q1050 262 900 222T600 220T300 222T0 199Z" fill="url(#bg)"/>
+  <path d="M0 188Q150 244 300 207T600 207T900 207T1200 188" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".6"/>
+  <g fill="#fff" font-family="Verdana, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="95" font-size="67" font-weight="700" letter-spacing="10">KAMIL</text>
+    <text x="600" y="142" font-size="27" font-weight="500">Go &amp; Java Backend Developer</text>
+    <text x="600" y="174" font-size="15" letter-spacing="2" fill="#E6EDF3">MICROSERVICES  /  DISTRIBUTED SYSTEMS</text>
+    <animate attributeName="opacity" from="0.2" to="1" dur="1.4s" fill="freeze"/>
+  </g>
+  <g font-family="monospace" font-size="18" fill="#fff" opacity=".65">
+    <text x="55" y="45">go run .</text>
+    <text x="1145" y="45" text-anchor="end">java -jar app.jar</text>
+  </g>
+</svg>
