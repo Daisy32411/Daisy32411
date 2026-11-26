@@ -3,31 +3,29 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:0D1117,100:F89820&height=230&section=header&text=KAMIL&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Go%20%26%20Java%20Backend%20Developer&descSize=22&descAlignY=56"/>
+<img width="100%" src="./header.svg" alt="Kamil — Go &amp; Java Backend Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Kamil;Go+%26+Java+Backend+Developer;Microservices+%26+Distributed+Systems;Go+%7C+Java+%7C+Spring+Boot;REST+API+%7C+gRPC+%7C+PostgreSQL;Learning.+Building.+Improving." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=750&lines=Go+%26+Java+Backend+Developer;Microservices+%26+Distributed+Systems;Go+%7C+Java+%7C+Spring+Boot;REST+API+%7C+gRPC+%7C+PostgreSQL;Learning.+Building.+Improving." alt="Typing SVG"/>
 
 <br>
 
-<img height="65" src="https://skillicons.dev/icons?i=go,java&theme=dark"/>
+<img height="75" src="https://skillicons.dev/icons?i=go,java&theme=dark" alt="Go and Java"/>
 
 <br><br>
 
 <a href="https://t.me/al0trop">
-  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00ADD8"/>
+  <img src="https://img.shields.io/badge/Telegram-00ADD8?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="mailto:kamilazatovich12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F89820"/>
+  <img src="https://img.shields.io/badge/Email-F89820?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Daisy32411">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Daisy32411&label=PROFILE+VIEWS&color=00ADD8&style=flat-square"/>
-
 </div>
+
+---
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -35,11 +33,11 @@
 
 <img align="right" width="175" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" alt="Dancing Go Gopher"/>
 
-**Go & Java Backend Developer.**
+**Go & Java Backend Developer**
 
 Обучаюсь в Школе 21 от Сбера с 2025 года.
 
-Разрабатываю backend-приложения на Go и Java, изучаю проектирование микросервисов, распределённые системы, архитектуру приложений и асинхронную обработку данных.
+Разрабатываю backend-приложения на Go и Java. Изучаю микросервисную архитектуру, распределённые системы, асинхронную обработку данных и проектирование отказоустойчивых сервисов.
 
 ```go
 package main
@@ -124,7 +122,11 @@ var me = Developer{
 
 <h3>Frontend & Other Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,qt,cmake&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,qt,cmake&theme=dark"/>
+
+<br><br>
+
+<code>Make</code> · <code>CI/CD</code> · <code>Unit Testing</code>
 
 </div>
 
@@ -235,7 +237,8 @@ var me = Developer{
 <li>HTTP Router на базе go-chi</li>
 <li>Авторизация и middleware</li>
 <li>SQLite хранилище</li>
-<li>Логирование и конфигурация</li>
+<li>Структурированное логирование</li>
+<li>Управление конфигурацией</li>
 <li>Автоматический деплой через CI/CD</li>
 </ul>
 
@@ -262,6 +265,7 @@ var me = Developer{
 
 <ul>
 <li>Backend на Go</li>
+<li>HTTP Router</li>
 <li>Фрагменты реального исходного кода</li>
 <li>Подсветка синтаксиса</li>
 <li>Статистика в реальном времени</li>
@@ -341,15 +345,15 @@ var me = Developer{
 <p>Открыт к новым проектам, сотрудничеству и профессиональному развитию.</p>
 
 <a href="https://t.me/al0trop">
-<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Telegram-00ADD8?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:kamilazatovich12@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F89820"/>
+<img src="https://img.shields.io/badge/Email-F89820?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Daisy32411">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -358,6 +362,10 @@ var me = Developer{
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:0D1117,100:F89820&height=130&section=footer"/>
+<img height="45" src="https://skillicons.dev/icons?i=go,java&theme=dark"/>
+
+<br><br>
+
+<b>Thanks for visiting my profile!</b>
 
 </div>
